@@ -17,13 +17,13 @@ Notion link는 카카오 단체방 상단 게시물 확인
 
 > LLM의 핵심이 되는 attention mechanism, Transformer block을 직접 구현하며 이해하는 것을 목표로 함.
 
-- Working with text data
+- [Working with text data](https://github.com/KAU-FN/LLM-Study-basic/blob/db3256b390ae02f6e78f808fc5577fcc15814e70/01.Low-level%20implementation/02_working_with_text_data.ipynb)
 - Coding attention mechanism
-- Implementing a GPT model from scratch to generate text
-  - KV-cache
-  - GQA(Grouped Query Attention)
-  - SWA(Sliding Window Attention)
-  - MoE(Mixture of Experts)
+- [Implementing a GPT model from scratch to generate text](https://github.com/KAU-FN/LLM-Study-basic/blob/db3256b390ae02f6e78f808fc5577fcc15814e70/01.Low-level%20implementation/04_implementing_GPT_from_scratch.ipynb)
+  - [KV-cache](https://github.com/KAU-FN/LLM-Study-basic/blob/db3256b390ae02f6e78f808fc5577fcc15814e70/01.Low-level%20implementation/04_1_kv-cache.ipynb)
+  - [GQA(Grouped Query Attention)](https://github.com/KAU-FN/LLM-Study-basic/blob/db3256b390ae02f6e78f808fc5577fcc15814e70/01.Low-level%20implementation/04_2_GQA.ipynb)
+  - [SWA(Sliding Window Attention)](https://github.com/KAU-FN/LLM-Study-basic/blob/db3256b390ae02f6e78f808fc5577fcc15814e70/01.Low-level%20implementation/04_3_SWA.ipynb)
+  - [MoE(Mixture of Experts)](https://github.com/KAU-FN/LLM-Study-basic/blob/db3256b390ae02f6e78f808fc5577fcc15814e70/01.Low-level%20implementation/04_4_MoE.ipynb)
 
 
 ### 2. LLM techniques
