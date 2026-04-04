@@ -3,3 +3,8 @@
 **/sms_spam_collection/
 **.csv
 **/gpt2/
+**aclImdb/
+**/collection/
+**.lock
+meta.json
+.vscode
