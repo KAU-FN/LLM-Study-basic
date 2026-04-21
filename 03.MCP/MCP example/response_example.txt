@@ -1,0 +1,66 @@
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "content": {
+            "parts": [
+              {
+                "function_call": {
+                  "name": "add",
+                  "args": {
+                    "a": 2.0,
+                    "b": 20.0
+                  }
+                }
+              }
+            ],
+            "role": "model"
+          },
+          "finish_reason": "STOP",
+          "index": 0
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 58,
+        "candidates_token_count": 19,
+        "total_token_count": 141
+      },
+      "model_version": "gemini-2.5-flash"
+    }),
+)
+
+
+
+GenerateContentResponse(
+    done=True,
+    iterator=None,
+    result=protos.GenerateContentResponse({
+      "candidates": [
+        {
+          "content": {
+            "parts": [
+              {
+                "function_call": {
+                  "name": "get_weather",
+                  "args": {
+                    "city": "Seoul"
+                  }
+                }
+              }
+            ],
+            "role": "model"
+          },
+          "finish_reason": "STOP",
+          "index": 0
+        }
+      ],
+      "usage_metadata": {
+        "prompt_token_count": 257,
+        "candidates_token_count": 15,
+        "total_token_count": 313
+      },
+      "model_version": "gemini-2.5-flash"
+    }),
+)
