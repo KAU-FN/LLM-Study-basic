@@ -30,3 +30,21 @@ mcp                                1.27.1
 NAME               ID              SIZE
 llama3.2:latest    ************    2.0 GB
 ```
+
+## Run example
+
+- 별도의(2개의) cmd 창을 열고, 한쪽에선 `server.py` 실행.
+
+```
+uv run server.py
+```
+
+- server 실행 후, `ollama_client.py` 실행하여 agent와 대화.
+
+```
+uv run ollama_client.py
+```
+
+- 실제 동작은 아래와 같음.
+
+![example](./agent_response_example.png)
