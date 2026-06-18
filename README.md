@@ -60,8 +60,8 @@ Notion link는 카카오 단체방 상단 게시물 확인
 
 > paper review를 통해 접했던 serving의 핵심 중 하나인 MCP server architecture를 code 작성을 통해 직접 이해하는 것을 목표로 함.
 
-- Toy MCP server practice
-- HuggingFace MCP Course
+- [Toy MCP server practice](https://github.com/KAU-FN/LLM-Study-basic/tree/main/03.MCP/MCP%20example)
+- [HuggingFace MCP Course](https://github.com/KAU-FN/LLM-Study-basic/tree/main/03.MCP/HuggingFace%20MCP%20course)
   - End-to-End MCP Application
   - Advanced MCP Development: Custom Workflow Services
 
@@ -69,5 +69,5 @@ Notion link는 카카오 단체방 상단 게시물 확인
 
 > 앞선 skill들과 open-weight model 활용, 실제 간단한 AI Agent를 build 해보는 것을 목표로 함.
 
-- HuggingFace AI Agents Course
-- AI Engineering Hub tutorial
+- [HuggingFace AI Agents Course](https://github.com/KAU-FN/LLM-Study-basic/tree/main/04.Agent%20Building/HuggingFace%20AI%20Agent%20Course)
+- [AI Engineering Hub tutorial](https://github.com/KAU-FN/LLM-Study-basic/tree/main/04.Agent%20Building/AI%20Engineering%20Hub%20tutorials)
